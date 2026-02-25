@@ -37,11 +37,11 @@
 
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
-  <a href="[INSERT_YOUR_LINKEDIN_URL]">
+  <a href="https://www.linkedin.com/in/daksh-kulshreshtha-0b698a3b2?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:[INSERT_YOUR_EMAIL]">
+  <a href="mailto:dks260804@gamil.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
