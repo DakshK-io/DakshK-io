@@ -28,20 +28,26 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
+
 <h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DakshK-io&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshK-io&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DakshK-io&show_icons=true&theme=tokyonight&hide_border=true" alt="Daksh's GitHub stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshK-io&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</a>
+</p>
+
 <br>
 
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/daksh-kulshreshtha-0b698a3b2?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://www.linkedin.com/in/daksh-kulshreshtha-0b698a3b2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:dks260804@gamil.com">
+  <a href="mailto:dks260804@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
