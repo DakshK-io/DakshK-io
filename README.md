@@ -15,7 +15,7 @@
 - 🎓 I’m currently studying at **Maharishi University of Information Technology**
 - 💻 I love working with **React, JavaScript, and Modern UI/UX**
 - 🏆 **Achievements:** Runner-up in Upgrad Inter-University Hackathons
-- ⚡ **Fun fact:** I love high-performance cars & twin-cylinder bikes!
+- ⚡ **Fun fact:** I'm a huge tech enthusiast—when I'm not coding, I'm deep-diving into the latest mobile hardware innovations!
 
 <br />
 
