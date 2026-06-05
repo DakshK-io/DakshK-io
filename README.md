@@ -32,6 +32,6 @@
 
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/daksh-kulshreshtha-65b9853b2">
+  <a href="[www.linkedin.com/in/daksh-kulshreshtha-65b9853b2](https://www.linkedin.com/in/daksh-kulshreshtha-65b9853b2/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
